@@ -1,0 +1,32 @@
+{
+  "project": "Invoice Gen Prototype",
+  "version": "0.1.0",
+  "files": [
+    ".gitignore",
+    "README.md",
+    "index.html",
+    "package.json",
+    "public/_redirects",
+    "public/manifest.webmanifest",
+    "public/sw.js",
+    "src/App.tsx",
+    "src/main.tsx",
+    "src/pdf.ts",
+    "src/storage.ts",
+    "src/styles.css",
+    "src/types.ts",
+    "tsconfig.app.json",
+    "tsconfig.json",
+    "vite.config.ts"
+  ],
+  "zip": "/mnt/data/invoice-gen-prototype-v0.1.zip",
+  "notes": [
+    "React + TypeScript + Vite PWA",
+    "IndexedDB local storage",
+    "Four PDF themes",
+    "A4 Pro Forma and Invoice, A5 Receipt",
+    "PDF generation via pdf-lib",
+    "Encrypted backup export/import",
+    "No backend or registration"
+  ]
+}
